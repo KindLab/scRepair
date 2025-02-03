@@ -15,7 +15,7 @@ _____
 **publication:**
 Genome-wide profiling ofDNA repair proteins in single cells
 
-Kim L. de Luca* ,Pim M. J. Rullens*, Magdalena A. Karpinska, Sandra S. de Vries, Agnieszka Gacek-Matthews, Lőrinc S. Pongor, Gaëlle Legube, Joanna W. Jachowicz, A. Marieke Oudelaar and
+Kim L. de Luca*, Pim M. J. Rullens*, Magdalena A. Karpinska, Sandra S. de Vries, Agnieszka Gacek-Matthews, Lőrinc S. Pongor, Gaëlle Legube, Joanna W. Jachowicz, A. Marieke Oudelaar and
 Jop Kind
 
 Nature Communication (2024), https://www.nature.com/articles/s41467-024-54159-4
