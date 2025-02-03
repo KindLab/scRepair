@@ -13,7 +13,7 @@ BioRxiv (2023), https://doi.org/10.1101/2023.05.10.540169
 
 _____
 **publication:**
-Genome-wide profiling ofDNA repair proteins in single cells
+Genome-wide profiling of DNA repair proteins in single cells
 
 Kim L. de Luca*, Pim M. J. Rullens*, Magdalena A. Karpinska, Sandra S. de Vries, Agnieszka Gacek-Matthews, Lőrinc S. Pongor, Gaëlle Legube, Joanna W. Jachowicz, A. Marieke Oudelaar and
 Jop Kind
